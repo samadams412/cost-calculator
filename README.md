@@ -10,4 +10,4 @@
 ## Future development
 * Could be made much more advanced with Context API
 
-![image](/cost-calculator/public/cost-calc.JPG)
+![image](./public/cost-calc.JPG)
