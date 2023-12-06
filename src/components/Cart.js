@@ -71,7 +71,7 @@ const Cart = ({ state, dispatch }) => {
           </div>
         ))
       ) : (
-        <span style={{ fontSize: 20, alignSelf: "center" }}>Cart is empty</span>
+        <span style={{ fontSize: 20, alignSelf: "center" }}>Cart is empty!</span>
       )}
     </div>
   );
